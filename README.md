@@ -4,8 +4,9 @@ This repository documents my personal journey toward becoming a **Fullstack Deve
 
 Along the way, I’ll be exploring:
 
-- 🌐 **Frontend Development** — HTML, CSS, JavaScript, and modern frameworks like React  
-- ⚙️ **Backend Development** — Node.js and Express and database management with SQL & MongoDB  
+- 🌐 **Frontend Development** — HTML, CSS, JavaScript
+- ⚙️ **Backend Development** — Node.js, Express, and database management with SQL & MongoDB
+- 🧩 **Frameworks** — React.js, Flutter, and Dart 
 - 🧠 **Version Control & Deployment** — Git, GitHub, and cloud platforms   
 
 Each project, folder, and commit represents a step forward in learning and mastering fullstack development.  
