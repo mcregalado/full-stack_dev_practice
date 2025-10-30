@@ -34,4 +34,4 @@ recipes/
 ```
 
 ## 🚀 How to View
-You can open the project with this link: 
+You can open the project with this link: https://mcregalado.github.io/full-stack_dev_practice/html/recipes
